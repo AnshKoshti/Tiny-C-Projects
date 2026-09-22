@@ -9,3 +9,6 @@
 
 # Optional: Do not ignore the .gitignore file itself
 !.gitignore
+
+# Do not ignore README file.
+!*README.md
