@@ -1,0 +1,11 @@
+# Ignore everything
+*
+
+# Do not ignore directories (so Git can scan them for .c files)
+!*/
+
+# Do not ignore .c files
+!*.c
+
+# Optional: Do not ignore the .gitignore file itself
+!.gitignore
