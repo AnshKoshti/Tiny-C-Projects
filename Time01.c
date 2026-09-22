@@ -9,5 +9,5 @@ int main() {
   printf("The computer thinks it's %ld\n", now);
   printf("%s", ctime(&now));
 
-  return 0;
+  return (0);
 }
