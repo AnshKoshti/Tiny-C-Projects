@@ -12,3 +12,4 @@
 
 # Do not ignore README file.
 !*README.md
+!*pithy.txt
